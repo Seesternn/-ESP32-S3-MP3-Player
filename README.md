@@ -1,4 +1,5 @@
 # 🎵 ESP32-S3 MP3 Player
+[![Repo](https://img.shields.io/badge/GitHub-YT--DL-blue?style=for-the-badge&logo=github)](https://github.com/Seesternn/yt-dl) [![Hardware](https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A feature-rich, open-source portable MP3 player built on the **ESP32-S3-N16R8** microcontroller. It plays MP3 files from a MicroSD card, displays a clean OLED interface, monitors battery health in real time via an INA226 power sensor, and manages power through a high-efficiency TPS63030 Buck-Boost converter.
 
@@ -18,6 +19,10 @@ A feature-rich, open-source portable MP3 player built on the **ESP32-S3-N16R8** 
 - 💤 Deep sleep mode with safe SD card unmounting
 - 🎚️ Scrollable playlist with currently-playing indicator
 - 📡 Dual I2C buses — OLED and INA226 run completely independently
+
+---
+
+If you're wondering where to download MP3 files professionally, (use 192kbps for this device) check out our [YT-DL](https://github.com/Seesternn/yt-dl) repository.
 
 ---
 
